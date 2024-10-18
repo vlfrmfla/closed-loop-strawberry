@@ -1,4 +1,4 @@
-data for papar
+Data and figures for papar
 
 Lim et al., 2024
 Nutrient Dynamics and Resource-Use Efficiency in Greenhouse Strawberries: Effects of Control Variables in Closed-Loop Hydroponics
